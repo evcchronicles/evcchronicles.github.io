@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The EVC Chronicles are a collection of anecdotes from EVC scholars. I intended this to be a collection of the "Lore of EVC" but there may also be some anecdotes of school events, interactions between scholars, faculty, even perhaps some recollections of major happenings in EVC. Note though, the EVC Chronicles are not meant to "expose" anyone and anecdotes involving malicious rumors and/or alleged scandals of individuals won't be allowed here.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Future Plans
+I was considering also making The EVC Chronicles a data archive of sorts that would include official school material such as school papers, yearbooks, capsule videos, and other historical material. In the meanwhile though, we'll just have anecdotes which you may submit through my contact info.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Contact Me
+You can send your anecdotes and lore through the email evcchronicles@gmail.com. Note that your content will still be screened before submission, however you will be notified of any changes or if your submission will be rejection.
