@@ -1,29 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-12-01 17:26:28 +0800
-categories: jekyll update
+title:  "Welcome to EVC Chronicles!"
+date:   2020-12-01 22:52:00 +0800
+categories: announcements
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Tis the first post of the EVC Chronicles! And honestly, I have not much to say. I'll just post an excerpt of a old log I made yesterday:
 
-Jekyll requires blog post files to be named according to the following format:
+# December 1, 2020
+The EVC Chronicles was born on Blogger with the URL: evcchronicles.blogspot.com. Similarly, a Gmail account was also created for the EVC Chronicles: evcchroniclesadmin@gmail.com.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This was the planning stage and I had been drafting rules and creating documentation. After a few days, I planned to create a mockup for the blog itself. *(Dec 2: note that since I eventually ended up using static site generator I gave up on making a mockup)*
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+...
 
-Jekyll also offers powerful support for code snippets:
+I anticipate what this future project will hold. Above all, though, the spirit of the EVC Chronicles should always remain lighthearted: not to expose or to degrade others but rather to revel and share in the history of the PSHS-EVC campus. The history of the campus may soon die out -- we watch the old admin, faculty, and alumni leave the school but surely, with our efforts, we can leave them remembered.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Afterword
+The blog was moved to GitHub Pages. As of now, I'm legit just trying to figure this out lol.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+And that's pretty much it.
