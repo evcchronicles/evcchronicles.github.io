@@ -12,4 +12,4 @@ By the way, this website is still a work-in-progress so expect not everything ma
 I was considering also making The EVC Chronicles a data archive of sorts that would include official school material such as school papers, yearbooks, capsule videos, and other historical material. In the meanwhile though, we'll just have anecdotes which you may submit through my contact info.
 
 # Contact Me
-You can send your anecdotes and lore through the email evcchronicles@gmail.com. Note that your content will still be screened before submission, however you will be notified of any changes or if your submission will be rejection.
+You can send your anecdotes and lore through the email [evcchronicles@gmail.com]. Note that your content will still be screened before submission, however you will be notified of any changes or if your submission will be rejection.
