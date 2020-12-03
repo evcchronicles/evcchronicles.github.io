@@ -2,7 +2,7 @@
 layout: post
 title: "EVC Faculty Lore"
 date: 2020-12-03
-categories:
+categories: lore
 ---
 
 There have been many speculations around the faculty of PSHS-EVC. For one, a certain Social Science teacher was rumored to have teleportation powers. After all, he never even ran around the school. And if he did, according to the testimony of a now alumni, it was a great shock. With his slow pace of walking, he somehow managed to get to every class on time. Truly, it was something *magical*, at the very least.
