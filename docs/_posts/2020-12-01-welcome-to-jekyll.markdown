@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to EVC Chronicles!"
-date:   2020-12-01 22:52:00 +0800
+date:   2020-12-02 22:52:00 +0800
 categories: announcements
 ---
 Tis the first post of the EVC Chronicles! And honestly, I have not much to say. I'll just post an excerpt of a old log I made yesterday:
