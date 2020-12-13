@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "EVC Faculty Lore"
-date: 2020-12-03
+date: 2020-12-13
 categories: lore
+---
+# Author's Note
+*This post was originally written on December 3, but was updated to accomodate more info*
+
 ---
 
 There have been many speculations around the faculty of PSHS-EVC. For one, a certain Social Science teacher was rumored to have teleportation powers. After all, he never even ran around the school. And if he did, according to the testimony of a now alumni, it was a great shock. With his slow pace of walking, he somehow managed to get to every class on time. Truly, it was something *magical*, at the very least.
@@ -13,3 +17,9 @@ Now, one of the former teachers in the Social Science faculty was not usually me
 
 # Other Faculty?
 It seems to be that the non-human population of the EVC campus is greater than was thought. One of the Biology teachers on campus was said to be a plant in human form. Although it seemed his prevalent use of hats and umbrellas were meant to shield himself away from sunlight, people believe otherwise. Theories around these objects were said that they were meant to facilitate the photosynthesis that he needs to survive. Who knows? Is he a plant?
+
+# News of Another Teleporter
+There have been claims of an English teacher who has been teleporting multiple floors to her classes. Who could it be?
+
+# Off to Different Places
+A former Physics teacher of Pisay EVC, who was also a research advisor, apparently is now teaching in London. Congratulations!
