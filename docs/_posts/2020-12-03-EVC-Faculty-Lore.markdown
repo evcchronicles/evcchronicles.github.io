@@ -22,4 +22,4 @@ It seems to be that the non-human population of the EVC campus is greater than w
 There have been claims of an English teacher who has been teleporting multiple floors to her classes. Who could it be?
 
 # Off to Different Places
-A former Physics teacher of Pisay EVC, who was also a research advisor, apparently is now teaching in London. Congratulations!
+A former Physics teacher of Pisay EVC, who was also a research advisor, apparently is now in London. Congratulations!
