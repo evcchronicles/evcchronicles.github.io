@@ -4,8 +4,12 @@ title: "The Petition"
 date: 2020-12-11
 categories: lore
 ---
+# Author's Note
+*Edited to fix an error on the date, thanks to who pointed it out!*
 
-Sometime in 2019, in the last days before the pandemic had driven all the students away from the campus, there was a ruckus.
+---
+
+In March 11 2019, nearing the last days before the pandemic had driven all the students away from the campus, there was a ruckus.
 There was an event of great anticipation which was apparently a day free of classes - the pandemic was drawing near and many had plans to get home early to recuperate. However, the suspension of classes was suddenly cancelled the day before. It caused quite a great shock to many and from great shock came a great wave of anger.
 
 A suggestion came from the student body that a petition may be able to possibly override a decision if given enough support in the form of signatures. This quickly led to lines of students waiting to sign blank sheets of paper. The sheets were then stapled to a letter from the Student Alliance, containing a statement with their intentions to revoke the cancellation of the suspension of classes.
