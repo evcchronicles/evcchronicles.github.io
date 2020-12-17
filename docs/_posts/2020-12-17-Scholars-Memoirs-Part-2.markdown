@@ -14,7 +14,7 @@ categories: lore, memoirs
 ---
 
 # CR Rescue
-"This happened during the Mr. and Mrs. Sportsfest, actually. You should have know that at the last stall of the Boys' CR, the door was broken. I was in the CR, doing CR things, changing clothes, so on. I had to take that last stall. All the other doors were locked, and besides, that last stall had more space.
+"This happened during the Mr. and Mrs. Sportsfest, actually. You should have known that at the last stall of the Boys' CR, the door was broken. I was in the CR, doing CR things, changing clothes, so on. I had to take that last stall. All the other doors were locked, and besides, that last stall had more space.
 
 Once I finished changing, I tried to open the door but it wouldn't even budge. The doorknob was broken and I was basically stuck. The whole thing was happening during the pageant so not a single person could hear my cries for help.
 
